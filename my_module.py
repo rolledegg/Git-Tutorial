@@ -6,6 +6,11 @@ def sub(a,b):
     sub = a-b
     return sub
 
-def smul(a,b):
+def mul(a,b):
     mul = a*b
     return mul
+
+def idn(a,b):
+    idn = a/b
+    return idn
+
