@@ -5,3 +5,7 @@ def sum(a,b):
 def sub(a,b):
     sub = a-b
     return sub
+
+def smul(a,b):
+    mul = a*b
+    return mul
