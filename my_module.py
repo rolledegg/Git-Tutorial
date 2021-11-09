@@ -10,7 +10,7 @@ def mul(a,b):
     mul = a*b
     return mul
 
-def idn(a,b):
-    idn = a/b
-    return idn
+def div(a,b):
+    div = a/b
+    return div
 
