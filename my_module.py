@@ -8,7 +8,7 @@ def sub(a,b):
 
 def mul(a,b):
     mul = a*b
-    return mul
+    return mul # master와 다른 주
 
 
 
