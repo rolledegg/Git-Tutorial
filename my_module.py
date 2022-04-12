@@ -10,7 +10,5 @@ def mul(a,b):
     mul = a*b
     return mul
 
-def div(a,b):
-    div = a/b
-    return div
+
 
