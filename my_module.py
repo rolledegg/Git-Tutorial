@@ -8,8 +8,4 @@ def sub(a,b):
 
 def mul(a,b):
     mul = a*b
-    return mul # master엔 주석달렸다리
-
-
-
-
+    return mul
